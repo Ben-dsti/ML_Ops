@@ -18,3 +18,6 @@ def add_four (x):
   
 def add_five (x):
   return (x+5)	
+
+def add_seven (x):
+  return (x+7)	
