@@ -7,6 +7,12 @@ def pass_log(x):
 def add_three (x):
   return (x+3)
 
+def add_two (x):
+  return x+2
+	
+def add_six (x):
+  #in Ben Branch to generate a conflict
+  
 def add_four (x):
   return (x+4)
   
